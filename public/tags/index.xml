@@ -6,9 +6,28 @@
     <description>Recent content in Tags on lauren adam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2019 21:21:27 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>goals</title>
+      <link>/tags/goals/</link>
+      <pubDate>Tue, 01 Oct 2019 21:21:27 -0400</pubDate>
+      
+      <guid>/tags/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Tue, 01 Oct 2019 21:21:27 -0400</pubDate>
+      
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
