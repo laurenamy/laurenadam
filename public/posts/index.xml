@@ -1,21 +1,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on lauren adam</title>
+        <title>lauren adam</title>
         <link>/posts/</link>
-        <description>Recent content in Posts on lauren adam</description>
+        <description>Recent content on lauren adam</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 01 Oct 2019 21:21:27 -0400</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Firstpost</title>
-            <link>/posts/firstpost/</link>
+            <title>Personal goals</title>
+            <link>/posts/personal-goals/</link>
             <pubDate>Tue, 01 Oct 2019 21:21:27 -0400</pubDate>
             
-            <guid>/posts/firstpost/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>/posts/personal-goals/</guid>
+            <description>I&amp;rsquo;ll be 30 next year, and while the idea terrifies me, I feel like I&amp;rsquo;ve come a long way in these last few years specifically. I finally made the long desired jump into a career in tech, my personal life is fabulous, and things really can&amp;rsquo;t get much better.
+Except that they totally can.
+While this is far too late to be considered new year&amp;rsquo;s resolutions, I&amp;rsquo;ve made some goals for myself recently that I hope to accomplish rather quickly.</description>
+            <content type="html"><![CDATA[
+
+<p>I&rsquo;ll be 30 next year, and while the idea <strong>terrifies</strong> me, I feel like I&rsquo;ve come a long way in these last few years specifically. I finally made the long desired jump into a career in tech, my personal life is fabulous, and things really can&rsquo;t get much better.</p>
+
+<p>Except that they totally can.</p>
+
+<p>While this is far too late to be considered new year&rsquo;s resolutions, I&rsquo;ve made some goals for myself recently that I hope to accomplish rather quickly.</p>
+
+<ol>
+<li>Revamp my personal website</li>
+<li>Complete Wes Bos&rsquo; Node.js course</li>
+</ol>
+
+<h2 id="why-hugo">Why Hugo?</h2>
+
+<p>As you can see if you&rsquo;re reading this, the first one is done! I decided to use a Hugo theme for a couple of reasons.</p>
+
+<h3 id="i-m-not-a-designer">I&rsquo;m not a designer.</h3>
+
+<p>Seriously, I can&rsquo;t emphasize enough how much I can&rsquo;t design things.</p>
+
+<h3 id="i-don-t-like-reinventing-the-wheel">I don&rsquo;t like reinventing the wheel</h3>
+
+<p>You read that right. If someone before me took the time to create a useful tool that will save me time and the embarrassment of having to design something? I&rsquo;m going to use it.</p>
+
+<h2 id="aren-t-you-already-a-programmer">Aren&rsquo;t you already a programmer?</h2>
+
+<p>Yup, I sure am, but the first thing you learn in tech is that your knowledge needs to be fluid. There&rsquo;s no magical framework that&rsquo;s going to be right for every project. There isn&rsquo;t some super package that will save your behind time and time again.</p>
+
+<p>I started learning backend by learning Sails.js, which I&rsquo;ve learned recently is essentially a framework that sits on top of Express, which sits on top of Node. Basically, all I&rsquo;ve done is decide to learn what lies underneath what I know and discover some other things along the way, like what other ORMs are available for Express/Node? Sails uses Waterline so I&rsquo;m fairly well-versed in that but there were a couple instances on a project where it really wasn&rsquo;t the best fit.</p>
+
+<h2 id="my-process">My Process</h2>
+
+<p>This isn&rsquo;t scientific or anything, but I purposely designed my goals to:</p>
+
+<ul>
+<li>be able to be broken down into smaller goals</li>
+<li>be definitive</li>
+</ul>
+
+<p>I feel like this is self explanatory but with each goal, I broke them down into smaller, more descriptive chunks. For example, my Trello board for this website has a check list for every task I think I&rsquo;ll need to do like the homepage, about page, write my first blog post, etc&hellip;</p>
+
+<p>My goals needed to be definitive so that I can say they are either <strong>done</strong> or <strong>not done</strong>, which is key for me personally because I have a habit of starting things and not finishing them.</p>
+
+<p>Also, there&rsquo;s no timeline of these because deadlines make me sad-sweaty.</p>
+]]></content>
         </item>
         
     </channel>
