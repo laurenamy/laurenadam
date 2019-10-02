@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on lauren adam</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on lauren adam</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 01 Oct 2019 21:21:27 -0400</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Firstpost</title>
+            <link>/posts/firstpost/</link>
+            <pubDate>Tue, 01 Oct 2019 21:21:27 -0400</pubDate>
+            
+            <guid>/posts/firstpost/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
