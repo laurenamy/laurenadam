@@ -32,9 +32,9 @@ theme = "hello-friend-ng"
   name = "linkedin"
   url  = "https://www.linkedin.com/in/lauren-adam-061a4518a/"
 
-[[params.social]]
-  name = "medium"
-  url = "https://medium.com/@lauren_87749"
+[[ params.social]]
+  name = "podcasts-apple"
+  url = "https://www.whatawomanpod.com/"
 
 [languages]
   [languages.en]
@@ -63,3 +63,7 @@ theme = "hello-friend-ng"
     identifier = "posts"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "podcast"
+    name       = "Podcast"
+    url        = "https://www.whatawomanpod.com"
